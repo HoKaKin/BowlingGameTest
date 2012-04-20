@@ -1,0 +1,5 @@
+D:\0A学习\敏捷开发\BowlingGameTest\BowlingGameTest\obj\Debug\ResolveAssemblyReference.cache
+D:\0A学习\敏捷开发\BowlingGameTest\BowlingGameTest\bin\Debug\BowlingGameTest.dll
+D:\0A学习\敏捷开发\BowlingGameTest\BowlingGameTest\bin\Debug\BowlingGameTest.pdb
+D:\0A学习\敏捷开发\BowlingGameTest\BowlingGameTest\obj\Debug\BowlingGameTest.dll
+D:\0A学习\敏捷开发\BowlingGameTest\BowlingGameTest\obj\Debug\BowlingGameTest.pdb
